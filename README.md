@@ -1,2 +1,6 @@
-laboptica
-=========
+# Sito Web del Laboratorio de Óptica Aplicada  #
+**Universidad del Istmo campus Tehuantepec**
+***
+Este proyecto esta dedicado a la creación de un sitio web de carácter informativo para el laboratorio de Óptica Aplicada de la Universidad del Istmo campus Tehuantepec, como parte de las actividades de servicio social de los desarrolladores: Rosa Isela Brena Luis ([@RossBrena](https://twitter.com/RossBrena)), Peniel Ruiz López ([@rulz88](https://twitter.com/rulz88)) y Jhoanna A. Sánchez Jarquín, bajo la supervisión del Dr. Víctor Iván Moreno Oliva.  
+
+Creado en el año 2013, este laboratorio es un espacio en el que se desarrolla investigación teórica y aplicada enfocada al uso eficiente de la [energía solar](http://es.wikipedia.org/wiki/Energ%C3%ADa_solar). Se estudian las regiones de concentración solar para diferentes geometrías y se realizan pruebas ópticas a las superficies reflectoras para su caracterización, lo que permite buscar una aplicación adecuada para cada dispositivo de modo que se aproveche de manera óptima el recurso solar, en beneficio del medio ambiente.

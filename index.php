@@ -50,6 +50,7 @@
 								</ul>
 							</li>
 							<li><a href="right-sidebar.html">Colaboradores</a></li>
+							<li><a href="right-sidebar.html">Publicaciones</a></li>
 							<li><a href="two-sidebar.html">Directorio</a></li>
 							<li><a href="#contacto">Contacto</a></li>
 						</ul>
@@ -153,7 +154,6 @@ Creado en el año 2013, el Laboratorio de Óptica Aplicada de la Universidad del
 			</section>
 			
 		<!-- CTA -->
-			<a id="contacto"></a>
 			<section id="cta" class="wrapper style3">
 				<div class="container">
 					<header>
@@ -163,6 +163,7 @@ Creado en el año 2013, el Laboratorio de Óptica Aplicada de la Universidad del
 			</section>
 				<div class="row oneandhalf">
 				<br>
+				<br>
 						<div class="6u">
 						<h3 class="icon fa-comments">Envíanos tus comentarios</h3>
 							<!-- Contact Form -->
@@ -170,15 +171,15 @@ Creado en el año 2013, el Laboratorio de Óptica Aplicada de la Universidad del
 									<form method="post" action="correo.php" action="index.php">
 										<div class="row half">
 											<div class="6u">
-												<input type="text" name="Name" id="contact-name" placeholder="Nombre" />
+												<input type="text" name="Name" id="contact-name" placeholder="Nombre" required="required" autofocus="autofocus" />
 											</div>
 											<div class="6u">
-												<input type="text" name="Email" id="contact-email" placeholder="Correo electrónico" />
+												<input type="text" name="Email" id="contact-email" placeholder="Correo electrónico" required="required" autofocus="autofocus" />
 											</div>
 										</div>
 										<div class="row half">
 											<div class="12u">
-												<textarea name="message" id="contact-message" placeholder="Mensaje" rows="4"></textarea>
+												<textarea name="message" id="contact-message" placeholder="Mensaje" rows="4" required="required" autofocus="autofocus"></textarea>
 											</div>
 										</div>
 										<div class="row">

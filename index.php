@@ -58,8 +58,9 @@
 
 			</div>
 			
-		<!-- Banner -->     
-			<section id="banner">
+		<!-- Banner : id="banner" -->     
+			<section>
+			<iframe src="slider/index.html" style="width:1200px;height:503px;max-width:100%;overflow:hidden;border:none;padding:0;margin:0 auto;display:block;" marginheight="0" marginwidth="0"></iframe>
 				<header>
 					<h2>LABORATORIO DE &Oacute;PTICA APLICADA <br>Universidad del Istmo Campus Tehuantepec</br></h2>
 					<a href="#" class="button">Leer Mas</a>
@@ -73,21 +74,21 @@
 						<section class="4u">
 							<div class="box highlight">
 								<i class="icon major fa-paper-plane"></i>
-								<h3>This Is Important</h3>
+								<h3>Misión</h3>
 								<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
 							</div>
 						</section>
 						<section class="4u">
 							<div class="box highlight">
 								<i class="icon major fa-pencil"></i>
-								<h3>Also Important</h3>
+								<h3>Visión</h3>
 								<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
 							</div>
 						</section>
 						<section class="4u">
 							<div class="box highlight">
 								<i class="icon major fa-wrench"></i>
-								<h3>Probably Important</h3>
+								<h3>Objetivos</h3>
 								<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
 							</div>
 						</section>
@@ -100,7 +101,7 @@
 				<div class="container">
 					<header class="major">
 						<h2>Creaci&oacute;n</h2>
-						<p>
+						<p style = "text-align: justify">
 Creado en el año 2013, el Laboratorio de Óptica Aplicada de la Universidad del Istmo, campus Tehuantepec, es un espacio en el que se desarrolla investigación teórica y aplicada enfocada al uso eficiente de la Energía Solar. Se estudian las regiones de concentración solar para diferentes geometrías y se realizan pruebas ópticas a las superficies reflectoras para su caracterización, lo que permite buscar una aplicación adecuada para cada dispositivo de modo que se aproveche de manera óptima el recurso solar, en beneficio del medio ambiente.
 						</p>
 					</header>
@@ -154,6 +155,7 @@ Creado en el año 2013, el Laboratorio de Óptica Aplicada de la Universidad del
 			</section>
 			
 		<!-- CTA -->
+		<a id = "contacto" ></a>
 			<section id="cta" class="wrapper style3">
 				<div class="container">
 					<header>
@@ -165,6 +167,7 @@ Creado en el año 2013, el Laboratorio de Óptica Aplicada de la Universidad del
 				<br>
 				<br>
 						<div class="6u">
+						<div style = "margin-left: 30px">
 						<h3 class="icon fa-comments">Envíanos tus comentarios</h3>
 							<!-- Contact Form -->
 								<section>
@@ -192,7 +195,7 @@ Creado en el año 2013, el Laboratorio de Óptica Aplicada de la Universidad del
 										</div>
 									</form>
 								</section>
-
+						</div>
 						</div>
 						<div class="6u">
 						
@@ -259,7 +262,7 @@ Creado en el año 2013, el Laboratorio de Óptica Aplicada de la Universidad del
 					<!-- Copyright -->
 						<div class="copyright">
 							<ul class="menu">
-								<li>&copy; Laboratorio Óptica Aplicada. Todos los derechos reservados</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+								<li>&copy; Laboratorio Óptica Aplicada. Todos los derechos reservados</li>
 							</ul>
 						</div>
 				</div>

@@ -700,12 +700,10 @@
 		}
 
 /* Banner */
-
 	#banner {
-		background-image: url("../images/banner.png");
 		background-position: center center;
 		background-size: cover;
-		height: 28em;
+		height: 29em;
 		text-align: center;
 		position: relative;
 	}
@@ -716,9 +714,9 @@
 			left: 0;
 			width: 100%;
 			background: #212121;
-			background: rgba(27, 27, 27, 0.75);
+			background: rgba(27, 27, 27, 0);
 			color: #fff;
-			padding: 1.5em 0;
+			padding: 1.8em 0;
 		}
 
 			#banner header h2 {
@@ -726,6 +724,7 @@
 				margin: 0;
 				font-size: 1.25em;
 				vertical-align: middle;
+				color: #000;
 			}
 
 				#banner header h2 em {

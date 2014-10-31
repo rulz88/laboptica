@@ -59,7 +59,7 @@
 			</div>
 			
 		<!-- Banner : id="banner" -->     
-			<section>
+			<section id="banner">
 			<iframe src="slider/index.html" style="width:1200px;height:503px;max-width:100%;overflow:hidden;border:none;padding:0;margin:0 auto;display:block;" marginheight="0" marginwidth="0"></iframe>
 				<header>
 					<h2>LABORATORIO DE &Oacute;PTICA APLICADA <br>Universidad del Istmo Campus Tehuantepec</br></h2>

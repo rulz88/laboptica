@@ -30,7 +30,7 @@
 				<!-- Nav -->
 					<nav id="nav">
 						<ul>
-							<li class="current"><a href="index.html">Inicio</a></li>
+							<li class="current"><a href="index.php">Inicio</a></li>
 							<li>
 								<a href="">Proyectos</a>
 								<ul>
@@ -49,9 +49,14 @@
 									<li><a href="#">Sistema de Monitoreo</a></li>
 								</ul>
 							</li>
-							<li><a href="right-sidebar.html">Colaboradores</a></li>
+							<li><a href="colaboradores.html">Colaboradores</a></li>
 							<li><a href="right-sidebar.html">Publicaciones</a></li>
-							<li><a href="two-sidebar.html">Directorio</a></li>
+							<li><a href="two-sidebar.html">Directorio</a>
+								<ul>
+									<li><a href="drvictor.html">Dr. V&iacute;ctor Iv&aacute;n Moreno O.</a></li>
+									<li><a href="dredwin.html">Dr. Edwin Rom&aacute;n H.</a></li>
+								</ul>
+							</li>
 							<li><a href="#contacto">Contacto</a></li>
 						</ul>
 					</nav>
@@ -60,10 +65,10 @@
 			
 		<!-- Banner : id="banner" -->     
 			<section id="banner">
-			<iframe src="slider/index.html" style="width:1200px;height:503px;max-width:100%;overflow:hidden;border:none;padding:0;margin:0 auto;display:block;" marginheight="0" marginwidth="0"></iframe>
+			<iframe src="slider/index.html" style="width:1600px;height:580px;max-width:100%;overflow:hidden;border:none;padding:0;margin:0 auto;display:block;" marginheight="0" marginwidth="0"></iframe>
 				<header>
 					<h2>LABORATORIO DE &Oacute;PTICA APLICADA <br>Universidad del Istmo Campus Tehuantepec</br></h2>
-					<a href="#" class="button">Leer Mas</a>
+					<a href="#creacion" class="button">Leer Mas</a>
 				</header>
 			</section>
 
@@ -97,6 +102,7 @@
 			</section>
 
 		<!-- Gigantic Heading -->
+		<a id = "creacion" ></a>
 			<section class="wrapper style2">
 				<div class="container">
 					<header class="major">
@@ -254,8 +260,6 @@ Creado en el año 2013, el Laboratorio de Óptica Aplicada de la Universidad del
 						<ul class="icons">
 							<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 							<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-							<li><a href="#" class="icon fa-github"><span class="label">GitHub</span></a></li>
-							<li><a href="#" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
 							<li><a href="#" class="icon fa-google-plus"><span class="label">Google+</span></a></li>
 						</ul>
 					

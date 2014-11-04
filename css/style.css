@@ -771,6 +771,15 @@
 			background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
 			color: white;
 		}
+		.wrapper.style4 {
+			background-color: #000;
+			background-image: url("images/bg02.png"), url("images/bg03.png"), url("images/bg01.png");
+			background-position: top left,						bottom left,					top left;
+			background-size: 50% 6em,						50% 6em,						auto;
+			background-repeat: no-repeat,						no-repeat,						repeat;
+			text-align: center;
+			position: relative;
+		}
 
 			.wrapper.style3 .button {
 				background: white;

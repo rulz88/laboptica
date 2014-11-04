@@ -51,7 +51,7 @@
 							</li>
 							<li><a href="colaboradores.html">Colaboradores</a></li>
 							<li><a href="right-sidebar.html">Publicaciones</a></li>
-							<li><a href="two-sidebar.html">Directorio</a>
+							<li><a>Directorio</a>
 								<ul>
 									<li><a href="drvictor.html">Dr. V&iacute;ctor Iv&aacute;n Moreno O.</a></li>
 									<li><a href="dredwin.html">Dr. Edwin Rom&aacute;n H.</a></li>
@@ -66,12 +66,14 @@
 		<!-- Banner : id="banner" -->     
 			<section id="banner">
 			<iframe src="slider/index.html" style="width:1600px;height:580px;max-width:100%;overflow:hidden;border:none;padding:0;margin:0 auto;display:block;" marginheight="0" marginwidth="0"></iframe>
+				
+			</section>
+			<section  class="wrapper style4">
 				<header>
 					<h2>LABORATORIO DE &Oacute;PTICA APLICADA <br>Universidad del Istmo Campus Tehuantepec</br></h2>
 					<a href="#creacion" class="button">Leer Mas</a>
 				</header>
 			</section>
-
 		<!-- Highlights -->
 			<section class="wrapper style1">
 				<div class="container">

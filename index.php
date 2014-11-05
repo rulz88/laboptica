@@ -34,7 +34,7 @@
 							<li>
 								<a href="">Proyectos</a>
 								<ul>
-									<li><a href="Tesis.html">Tesis</a></li>
+									<li><a href="tesis.html">Tesis</a></li>
 									<li><a href="concentrador.html">Concentrador Solar</a></li>
 									<li><a href="monitoreo.html">Sistema de Monitoreo</a></li>
 								</ul>
@@ -47,6 +47,7 @@
 									<li><a href="dredwin.html">Dr. Edwin Rom&aacute;n H.</a></li>
 								</ul>
 							</li>
+							<li><a href="galeria.html">Galería</a></li>
 							<li><a href="#contacto">Contacto</a></li>
 						</ul>
 					</nav>
@@ -58,15 +59,17 @@
 			<iframe src="slider/index.html" style="width:1600px;height:580px;max-width:100%;overflow:hidden;border:none;padding:0;margin:0 auto;display:block;" marginheight="0" marginwidth="0"></iframe>
 				
 			</section>
-			<section  class="wrapper style4">
+			<!--section  class="wrapper style4">
 				<header>
 					<h2>LABORATORIO DE &Oacute;PTICA APLICADA <br>Universidad del Istmo Campus Tehuantepec</br></h2>
 					<a href="#creacion" class="button">Leer Mas</a>
 				</header>
-			</section>
+			</section-->
 		<!-- Highlights -->
 			<section class="wrapper style1">
 				<div class="container">
+						
+					<h2 style= "text-align:center">LABORATORIO DE &Oacute;PTICA APLICADA <br>Universidad del Istmo Campus Tehuantepec</br></h2>
 					<div class="row double">
 						<section class="4u">
 							<div class="box highlight">
@@ -108,7 +111,11 @@ Creado en el año 2013, el Laboratorio de Óptica Aplicada de la Universidad del
 
 		<!-- Posts -->
 			<section class="wrapper style1">
+
 				<div class="container">
+					<header>
+						<h2 style = "text-align: center">Destacados</h2>
+					</header>
 					<div class="row">
 						<section class="6u">
 							<div class="box post">

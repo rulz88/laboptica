@@ -114,37 +114,48 @@ Creado en el año 2013, el Laboratorio de Óptica Aplicada de la Universidad del
 							<div class="box post">
 								<a href="#" class="image left"><img src="images/pic01.jpg" alt="" /></a>
 								<div class="inner">
-									<h3>The First Thing</h3>
-									<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
+									<h3>Digitalización de objetos</h3>
+									<p style = "text-align: justify">La  participación  de  los  alumnos  en    los  proyectos  de  investigación  es  importante 
+									en el Laboratorio de óptica aplicada. Los alumnos de la Licenciatura en Matemáticas  Aplicadas  e  Ingenierías  que  se  ofertan  en  la  Universidad  del  Istmo  pueden 
+									explotar sus capacidades.</p>
 								</div>
 							</div>
 						</section>
+						
 						<section class="6u">
 							<div class="box post">
-								<a href="#" class="image left"><img src="images/pic02.jpg" alt="" /></a>
+								<a href="#" class="image left"><img src="images/pic04.jpg" alt="" /></a>
 								<div class="inner">
-									<h3>The Second Thing</h3>
-									<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
+									<h3>Colector solar de canal parabólico</h3>
+									<p style = "text-align: justify">Un colector solar de canal parabólico es un dispositivo que permite colectar la energía
+									solar  en  una  línea,  en  lugar  de  colectarla  en  un  punto.  Esto  permite  que  se  tenga  una
+									mayor región  de  concentración  solar.  Una de  las  principales  aplicaciones  de  este  tipo
+									de dispositivos es la generación de vapor para generar electricidad.</p>
 								</div>
 							</div>
 						</section>
+						
 					</div>
 					<div class="row">
 						<section class="6u">
 							<div class="box post">
 								<a href="#" class="image left"><img src="images/pic03.jpg" alt="" /></a>
 								<div class="inner">
-									<h3>The Third Thing</h3>
-									<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
+									<h3>Experimentos.</h3>
+									<p style = "text-align: justify">Estudio  teórico  y  experimental  de  la  cáustica  asociada  con  los  rayos  de  luz
+									reflejados por el colectorsolar de canal parabólico construido en la UNISTMO.</p>
 								</div>
 							</div>
 						</section>
+						
 						<section class="6u">
 							<div class="box post">
-								<a href="#" class="image left"><img src="images/pic04.jpg" alt="" /></a>
+								<a href="#" class="image left"><img src="images/pic02.jpg" alt="" /></a>
 								<div class="inner">
-									<h3>The Fourth Thing</h3>
-									<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
+									<h3>Cáusticas</h3>
+									<p style = "text-align: justify">Usando herramientas matemáticas se estudian teóricamente las cáusticas 
+										asociadas  con  los  rayos  de  luz  reflejados  por  una  superficie  reflectora
+										arbitraria.</p>
 								</div>
 							</div>
 						</section>
@@ -250,9 +261,9 @@ Creado en el año 2013, el Laboratorio de Óptica Aplicada de la Universidad del
 				<div id="footer">
 					<!-- Icons -->
 						<ul class="icons">
-							<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-							<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-							<li><a href="#" class="icon fa-google-plus"><span class="label">Google+</span></a></li>
+							<li><a href="https://www.twitter.com" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="https://www.facebook.com/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+							<li><a href="https://plus.google.com/" class="icon fa-google-plus"><span class="label">Google+</span></a></li>
 						</ul>
 					
 					<!-- Copyright -->

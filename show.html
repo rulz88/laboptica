@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Galeria</title>
+    <!-- Add jQuery library -->
+    <script src="js/jquery.min.js"></script>
+    
+    
+    <!-- fancyBox -->
+        <!-- Add mousewheel plugin (this is optional) -->
+        <script type="text/javascript" src="js/jquery.mousewheel-3.0.6.pack.js"></script>
+        
+        <!-- Add fancyBox -->
+        <link rel="stylesheet" href="css/fancybox.css?v=2.1.5" type="text/css" media="screen" />
+        <script type="text/javascript" src="js/jquery.fancybox.pack.js?v=2.1.5"></script>
+        
+        <script type="text/javascript">
+                $(document).ready(function() {
+                        $(".fancybox").fancybox({
+                                openEffect	: 'none',
+                                closeEffect	: 'none'
+                        });
+                });
+        </script>
+    <!-- fancyBox -->
+    
+</head>
+
+<body>
+
+    <a class="fancybox" rel="gallery1" href="http://farm6.staticflickr.com/5471/9036958611_fa1bb7f827_b.jpg" title="Westfield Waterfalls - Middletown CT Lower (Graham_CS)">
+            <img src="http://farm6.staticflickr.com/5471/9036958611_fa1bb7f827_m.jpg" alt="" /></a>
+    <a class="fancybox" rel="gallery1" href="http://farm4.staticflickr.com/3824/9041440555_2175b32078_b.jpg" title="Calm Before The Storm (One Shoe Photography Ltd.)">
+            <img src="http://farm4.staticflickr.com/3824/9041440555_2175b32078_m.jpg" alt="" /> </a>
+    <a class="fancybox" rel="gallery1" href="http://farm3.staticflickr.com/2870/8985207189_01ea27882d_b.jpg" title="Lambs Valley (JMImagesonline.com)">
+            <img src="http://farm3.staticflickr.com/2870/8985207189_01ea27882d_m.jpg" alt="" /></a>
+    <a class="fancybox" rel="gallery1" href="http://farm4.staticflickr.com/3677/8962691008_7f489395c9_b.jpg" title="Grasmere Lake (Phil 'the link' Whittaker (gizto29))">
+            <img src="http://farm4.staticflickr.com/3677/8962691008_7f489395c9_m.jpg" alt="" /></a>
+
+</body>
+</html>

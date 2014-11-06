@@ -233,9 +233,8 @@ Creado en el año 2013, el Laboratorio de Óptica Aplicada de la Universidad del
 											<section>
 												<h3 class="icon fa-user">Social</h3>
 												<p>
-													<a href="#">@untitled-corp</a><br />
-													<a href="#">linkedin.com/untitled</a><br />
-													<a href="#">facebook.com/untitled</a>
+													<a href="https://plus.google.com/118091693486946484977/posts" target="_blank">https://plus.google.com</a><br />
+												
 												</p>
 											</section>
 										</div>
@@ -268,9 +267,9 @@ Creado en el año 2013, el Laboratorio de Óptica Aplicada de la Universidad del
 				<div id="footer">
 					<!-- Icons -->
 						<ul class="icons">
-							<li><a href="https://www.twitter.com" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-							<li><a href="https://www.facebook.com/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-							<li><a href="https://plus.google.com/" class="icon fa-google-plus"><span class="label">Google+</span></a></li>
+							<li><a href="https://www.twitter.com" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+							<li><a href="https://www.facebook.com/" class="icon fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+							<li><a href="https://plus.google.com/" class="icon fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
 						</ul>
 					
 					<!-- Copyright -->

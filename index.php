@@ -67,29 +67,33 @@
 			</section-->
 		<!-- Highlights -->
 			<section class="wrapper style1">
-				<div class="container">
-						
+				<div class="container">	
 					<h2 style= "text-align:center">LABORATORIO DE &Oacute;PTICA APLICADA <br>Universidad del Istmo Campus Tehuantepec</br></h2>
 					<div class="row double">
 						<section class="4u">
 							<div class="box highlight">
-								<i class="icon major fa-paper-plane"></i>
+								<i class="icon major fa-flag-o"></i>
 								<h3>Misión</h3>
-								<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
+								<p style = "text-align: justify">Promover la investigación aplicada en el área de óptica entre los investigadores y estudiantes de la universidad del Istmo, con la finalidad de fortalecer la investigación básica y la formación de recursos humanos.</p>
 							</div>
 						</section>
 						<section class="4u">
 							<div class="box highlight">
-								<i class="icon major fa-pencil"></i>
+								<i class="icon major fa-eye"></i>
 								<h3>Visión</h3>
-								<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
+								<p style = "text-align: justify">Consolidar el Laboratorio de Óptica Aplicada de la Unistmo, como un espacio abierto a la investigación y experimentación que nos permita servir de apoyo al personal docente a grupos de investigación, Cuerpos Académicos y a la comunidad.</p>
 							</div>
 						</section>
 						<section class="4u">
 							<div class="box highlight">
-								<i class="icon major fa-wrench"></i>
+								<i class="icon major fa-arrow-up"></i>
 								<h3>Objetivos</h3>
-								<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
+								<ul style = "text-align: justify">
+									<li><b>Desarrollar</b> investigación básica aplicada al aprovechamiento del recurso solar.</li>
+									<li><b>Obtener</b> modelos matemáticos y computacionales que puedan reproducir el comportamiento óptico de la interacción de la luz con diferentes geometrías.</li>
+									<li><b>Brindar</b> apoyo a las demás líneas de investigación dentro del instituto.</li>
+									<li><b>Vincular</b> a los estudiantes de diferentes áreas para desarrollo de tesis, servicio social y estancias profesionales.</li>
+									</ul>
 							</div>
 						</section>
 					</div>

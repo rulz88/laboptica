@@ -123,7 +123,7 @@ Creado en el año 2013, el Laboratorio de Óptica Aplicada de la Universidad del
 					<div class="row">
 						<section class="6u">
 							<div class="box post">
-								<a href="#" class="image left"><img src="images/pic01.jpg" alt="" /></a>
+								<a class="image left"><img src="images/pic01.jpg" alt="" /></a>
 								<div class="inner">
 									<h3>Digitalización de objetos</h3>
 									<p style = "text-align: justify">La  participación  de  los  alumnos  en    los  proyectos  de  investigación  es  importante 
@@ -135,7 +135,7 @@ Creado en el año 2013, el Laboratorio de Óptica Aplicada de la Universidad del
 						
 						<section class="6u">
 							<div class="box post">
-								<a href="#" class="image left"><img src="images/pic04.jpg" alt="" /></a>
+								<a class="image left"><img src="images/pic04.jpg" alt="" /></a>
 								<div class="inner">
 									<h3>Colector solar de canal parabólico</h3>
 									<p style = "text-align: justify">Un colector solar de canal parabólico es un dispositivo que permite colectar la energía
@@ -150,7 +150,7 @@ Creado en el año 2013, el Laboratorio de Óptica Aplicada de la Universidad del
 					<div class="row">
 						<section class="6u">
 							<div class="box post">
-								<a href="#" class="image left"><img src="images/pic03.jpg" alt="" /></a>
+								<a class="image left"><img src="images/pic03.jpg" alt="" /></a>
 								<div class="inner">
 									<h3>Experimentos</h3>
 									<p style = "text-align: justify">Estudio  teórico  y  experimental  de  la  cáustica  asociada  con  los  rayos  de  luz
@@ -161,7 +161,7 @@ Creado en el año 2013, el Laboratorio de Óptica Aplicada de la Universidad del
 						
 						<section class="6u">
 							<div class="box post">
-								<a href="#" class="image left"><img src="images/pic02.jpg" alt="" /></a>
+								<a class="image left"><img src="images/pic02.jpg" alt="" /></a>
 								<div class="inner">
 									<h3>Cáusticas</h3>
 									<p style = "text-align: justify">Usando herramientas matemáticas se estudian teóricamente las cáusticas 
@@ -194,15 +194,15 @@ Creado en el año 2013, el Laboratorio de Óptica Aplicada de la Universidad del
 									<form method="post" action="correo.php" action="index.php">
 										<div class="row half">
 											<div class="6u">
-												<input type="text" name="Name" id="contact-name" placeholder="Nombre" required="required" autofocus="autofocus" />
+												<input type="text" name="Name" id="contact-name" placeholder="Nombre"  required="required"/>
 											</div>
 											<div class="6u">
-												<input type="text" name="Email" id="contact-email" placeholder="Correo electrónico" required="required" autofocus="autofocus" />
+												<input type="text" name="Email" id="contact-email" placeholder="Correo electrónico" required="required"/>
 											</div>
 										</div>
 										<div class="row half">
 											<div class="12u">
-												<textarea name="message" id="contact-message" placeholder="Mensaje" rows="4" required="required" autofocus="autofocus"></textarea>
+												<textarea name="message" id="contact-message" placeholder="Mensaje" rows="4" required="required"></textarea>
 											</div>
 										</div>
 										<div class="row">

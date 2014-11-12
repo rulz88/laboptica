@@ -154,7 +154,7 @@ Creado en el año 2013, el Laboratorio de Óptica Aplicada de la Universidad del
 								<div class="inner">
 									<h3>Experimentos</h3>
 									<p style = "text-align: justify">Estudio  teórico  y  experimental  de  la  cáustica  asociada  con  los  rayos  de  luz
-									reflejados por el colectorsolar de canal parabólico construido en la UNISTMO.</p>
+									reflejados por el colector solar de canal parabólico construido en la UNISTMO.</p>
 								</div>
 							</div>
 						</section>
